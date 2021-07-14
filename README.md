@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @xwosic
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python & Django
 
 <!---
